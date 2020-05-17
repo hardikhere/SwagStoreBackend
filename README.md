@@ -1,3 +1,3 @@
 # ecombackend
 backend for tshirt website
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://git.heroku.com/limitless-sands-65850.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]([![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy))
