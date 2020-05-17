@@ -1,0 +1,33 @@
+{
+  "name": "projbackend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "braintree": "^2.23.0",
+    "cookie-parser": "^1.4.4",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-jwt": "^5.3.1",
+    "express-validator": "^6.4.0",
+    "formidable": "^1.2.1",
+    "i": "^0.3.6",
+    "jsonwebtoken": "^8.5.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.7.7",
+    "morgan": "^1.10.0",
+    "nodemon": "^1.19.4",
+    "npm": "^6.13.0",
+    "passport": "^0.4.1",
+    "passport-facebook-token": "^3.3.0",
+    "uuid": "^3.3.3"
+  }
+}
