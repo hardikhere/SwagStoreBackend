@@ -25,7 +25,7 @@
     "mongoose": "^5.7.7",
     "morgan": "^1.10.0",
     "nodemon": "^1.19.4",
-    "npm": "^6.13.0",
+    "npm": "^6.14.6",
     "passport": "^0.4.1",
     "passport-facebook-token": "^3.3.0",
     "uuid": "^3.3.3"
